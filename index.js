@@ -133,6 +133,10 @@ bot.onText(/\/start/, async (msg) => {
 
 Welcome to PIGITAP – the first and only *Tap-to-Earn* game with real utility! 🎮💰 
 
+In this exciting mini app, you can earn rewards just by tapping, and soon, you'll experience the launch of PIGIBET Casino Games, where our PIGI token will power the entire ecosystem. Get ready for a thrilling gaming adventure with real earning potential! 
+
+Stay tuned and start tapping to win with PIGITAP!
+
 Your referral link is: 
 <a href="${referralLink}">${referralLink}</a>`;
 
